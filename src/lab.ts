@@ -7,4 +7,4 @@ await db.user.create({
         lastName: 'Herbert',
     }
 })
-console.log('done')
+console.log('done now')
